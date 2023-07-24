@@ -1,0 +1,8 @@
+1. npm init -1-st step
+2. create a .gitignore file
+3. create a index.js 
+4.npm i express
+5. create routes folder - index.js, user.js
+6.npm i nodemon
+7.npm i mongodb
+8.create folder - config-- dbConfig.js
